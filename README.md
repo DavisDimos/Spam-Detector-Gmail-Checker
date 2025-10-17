@@ -25,9 +25,5 @@ A sophisticated spam detection system with multiple interfaces for email classif
 - **Prediction History**: Track and review previous classifications
 - **Right-click Context Menu**: Enhanced text editing capabilities
 
-## 🚀 Quick Start
 
-### Prerequisites
-- Python 3.8 or higher
-- Gmail account with App Password enabled
 
